@@ -16,10 +16,10 @@
 -->
 ### Connect With Me
 
-[<img align="left" alt="Adji Pangestu | Website" width="28px" src="" />][website]
-[<img align="left" alt="Adji Pangestu | YouTube" width="28px" src="https://img.shields.io/static/v1?label=AdjiPangestu&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge" />][youtube]
-[<img align="left" alt="Adji Pangestu | Twitter" width="28px" src="https://img.shields.io/twitter/follow/AdjiPangestu?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge" />][twitter]
-[<img align="left" alt="Adji Pangestu | LinkedIn" width="28px" src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/broadji/" />][linkedin]
+[<img align="left" alt="Adji Pangestu | Website" width="28px" src="https://icons8.com/icon/63807/website" />][website]
+[<img align="left" alt="Adji Pangestu | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][youtube]
+[<img align="left" alt="Adji Pangestu | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
+[<img align="left" alt="Adji Pangestu | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 
 
 <br />
